@@ -5,6 +5,7 @@
 This Project Focus on Exploratory Data Analysis (EDA)
 on a dataset of student performance. The dataset includes attributes such as study hours per week, attendance rate, 
 previous grades, participation in extracurricular activities, parent education level, and whether the student passed or not. The notebook aims to uncover insights into factors affecting student performance.
+using the data visualization libraries(seaborn and matplotlib) to understand the student performances.
 
 ## Dataset
 
